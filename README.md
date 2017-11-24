@@ -8,4 +8,4 @@ TP mise en pratique du cours git
 - [Ousret](https://github.com/Ousret)
 - [snowwtarie](https://github.com/snowwtarie)
 - [Yornletard](https://github.com/Yornletard)
-- [Stibo] (https://github.com/stibolas)
+- [Stibo](https://github.com/stibolas)
