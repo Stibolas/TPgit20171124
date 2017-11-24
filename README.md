@@ -3,4 +3,4 @@ TP mise en pratique du cours git
 
 ## Liste des participants
 
-- @Niamor70
+- [Niamor70](https://github.com/Niamor70)
